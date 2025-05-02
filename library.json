@@ -1,0 +1,20 @@
+{
+	"name": "ModbusMaster",
+	"version": "2.0.1",
+	"description": "Enables communication with Modbus slaves over RS232/485 (via RTU protocol). Requires an RS232/485 transceiver.",
+	"keywords": "modbus, master, rs232, rs485, rtu, communication",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/4-20ma/ModbusMaster.git"
+	},
+	"authors": [
+		{
+			"name": "Doc Walker",
+			"email": "4-20ma@wvfans.net",
+			"maintainer": true
+		}
+	],
+	"license": "Apache-2.0",
+	"frameworks": "arduino",
+	"platforms": "*"
+}
